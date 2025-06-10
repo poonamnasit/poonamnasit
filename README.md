@@ -20,8 +20,8 @@
 | Week | Project                              | Status      | GitHub Link |
 |------|--------------------------------------|-------------|-------------|
 | 1    | ROS Robot Movement Simulation        | ✅ Complete | [ros-robot-movement](https://github.com/poonamnasit/ros-robot-movement) |
-| 2    | LIDAR Obstacle Avoidance             | 🟡 In Progress | - |
-| 3    | CAN Parser (Embedded)                | ⬜ Upcoming | - |
+| 2    | LIDAR Obstacle Avoidance             | ✅ Complete |[lidar-obstacle-avoidance](https://github.com/poonamnasit/lidar-obstacle-avoidance) |
+| 3    | CAN Parser (Embedded)                | 🟡 In Progress | - |
 | 4    | ML-based Image Classification        | ⬜ Upcoming | - |
 | 5    | OpenCV Object Tracking               | ⬜ Upcoming | - |
 | 6    | ROS + OpenCV Integration             | ⬜ Upcoming | - |

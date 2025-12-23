@@ -1,10 +1,10 @@
 # Hi, I'm Poonam 👋
 
-🎓 Master’s student in **AI Engineering of Autonomous Systems**  
-🔍 Passionate about **robotics, embedded systems**, and real-world **AI applications**  
-🤖 Currently building an **robotics simulation & AI portfolio**  
-🌍 Based in Germany | 📚 Learning German for better team collaboration  
-📬 poonamnasit99@gmail.com | [LinkedIn](https://www.linkedin.com/in/nasitpoonam1999)
+ Master’s student in **AI Engineering of Autonomous Systems**  
+ Passionate about **robotics, embedded systems**, and real-world **AI applications**  
+ Currently building an **robotics simulation & AI portfolio**  
+ Based in Germany | 📚 Learning German for better team collaboration  
+ poonamnasit99@gmail.com | [LinkedIn](https://www.linkedin.com/in/nasitpoonam1999)
 
 ---
 
